@@ -1,0 +1,46 @@
+':authority':
+'www.imdb.com'
+':method':
+'GET'
+':path':
+'/title/tt13207736/?ref_=tt_mv_close'
+':scheme':
+'https'
+'accept':
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+'accept-encoding':
+gzip, deflate, br, zstd
+'accept-language':
+en-US,en;q=0.9
+'cookie':
+session-id=142-2176513-1936729; session-id-time=2082787201l; ubid-main=133-5041304-1606668; ad-oo=0; ci=e30; session-token=CuzRVDtiXDEYkHG/+yicKqE/z0guEpNSA+Dg/HG2JBIRzRaC/fTC0xPFAEkKThiSeiQiAAm2LJPS8z+R8ajrPzueA4glm7HDeAQ9OGGnVg3rGZu7GNJpJOyFu6/3F58RhfaVTUbjk3H2QOaioMCzvi0S2R0C2XnA/CsAXhz16CH/1TCJ8aAMsxyth23Kxyx8b3M4U3MlOJi5xspU3riyOX9ss6OG5OqTs4QcNT6pCdiqAC1w8JEJmOSsHI86MAxW8aitjzeKm7Jz204bVMKdIrO+vpfwVLipUqXDXPrcD6ieprqwdla3NzKYfVuwBafaCuYdmfBH5/XAoac2CVLjjH8K/zCx/i2+; csm-hit=tb:EADSV506XZJ06Y2X5BQT+s-QDQANWKYSKZZCZQ87DVR|1727868860463&t:1727868860463&adb:adblk_no
+'priority':
+'u=0, i'
+'referer':
+'https://www.imdb.com/title/tt13207736/mediaviewer/rm2683399937/?ref_=tt_ov_i'
+'sec-ch-ua':
+"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"
+'sec-ch-ua-mobile':
+'?0'
+'sec-ch-ua-platform':
+"Windows"
+'sec-fetch-dest':
+'document'
+'sec-fetch-mode':
+'navigate'
+'sec-fetch-site':
+'same-origin'
+'sec-fetch-user':
+'?1'
+'upgrade-insecure-requests':
+'1'
+'user-agent':
+'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+Search in the Performance > Network track
+You can now search requests in the Network track of the Performance panel and, additionally, see stack traces in Timings.
+
+Use test address data in the Autofill panel
+Enable test address data in the Autofill panel to test address forms on your site.
+
+Recorder supports export to Puppeteer for Firefox
+As part of WebDriver BiDi support, the Recorder panel can now export recordings to Puppeteer for Firefox.'
